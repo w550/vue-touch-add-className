@@ -13,5 +13,7 @@ document touch event add className
 
 #使用
 import Vue from 'vue'
+
 import vtac from 'vtac'
+
 Vue.use(vtac)

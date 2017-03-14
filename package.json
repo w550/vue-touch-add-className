@@ -1,15 +1,11 @@
 {
   "name": "vtac",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "document touch event add className",
   "main": "index.js",
   "scripts": {
     "test": "touch"
   },
-  "dist-tags": {
-    "latest": "1.0.1"
-  },
-  "versions": [ "1.0.0", "1.0.1" ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/w550/vue-touch-add-className.git"
