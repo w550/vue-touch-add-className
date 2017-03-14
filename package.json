@@ -1,0 +1,30 @@
+{
+  "name": "vtac",
+  "version": "1.0.0",
+  "description": "document touch event add className",
+  "main": "index.js",
+  "scripts": {
+    "test": "touch"
+  },
+  "dist-tags": {
+    "latest": "1.0.1"
+  },
+  "versions": [ "1.0.0", "1.0.1" ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/w550/vue-touch-add-className.git"
+  },
+  "keywords": [
+    "vue",
+    "touch"
+  ],
+  "author": "550",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/w550/vue-touch-add-className/issues"
+  },
+  "homepage": "https://github.com/w550/vue-touch-add-className#readme",
+  "devDependencies": {
+    "alloytouch": "^0.2.1"
+  }
+}
