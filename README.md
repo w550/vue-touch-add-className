@@ -8,13 +8,15 @@ document touch event add className
 
 比如
 
+```
 .active{
 	background:red;
 }
-
+```
 
 
 #使用
+
 npm install --save-dev vtac
 
 import Vue from 'vue'
