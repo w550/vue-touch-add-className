@@ -24,3 +24,8 @@ import Vue from 'vue'
 import vtac from 'vtac'
 
 Vue.use(vtac)
+
+```HTML
+<li v-vtac>touch</li>
+<li v-vtac="'className'"></li>
+```
